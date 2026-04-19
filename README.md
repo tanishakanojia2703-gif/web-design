@@ -2,7 +2,7 @@
 
 ## Production Settings
 - **Environment**: Production
-- **Base URL**:
+- **Base URL**:https://your-domain.com/
 - **Cache Headers**: Enabled
 - **Compression**: Enabled
 - **CDN**: Recommended
